@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://fernandovaldes.me/using-remark-images</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/react-live-code-example</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/use-component-in-mdx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/markdown-pepep-argento</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/markdown-cheatsheet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/remark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/coding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/help</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/general</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
