@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://fernandovaldes.me/sacate-el-miedo-de-usar-map-filter-y-reduce</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/cuando-es-el-momento-adecuado-para-dejar-nuestro-trabajo-actual</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/desarrollando-una-app-spring-boot-con-graph-ql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/mapas-java-tree-map-vs-hash-map-vs-linked-hash-map</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -10,6 +11,9 @@
 <url> <loc>http://fernandovaldes.me/9-claves-para-elegir-el-mejor-lenguaje-de-programacion-y-frameworks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/api-rest-api-que</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/api-roquefort-y-nuez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/software-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fernandovaldes.me/categories/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/professional-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/personal-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -24,7 +28,6 @@
 <url> <loc>http://fernandovaldes.me/categories/inspiration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/developer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://fernandovaldes.me/categories/software-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/integration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fernandovaldes.me/categories/design-software</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
