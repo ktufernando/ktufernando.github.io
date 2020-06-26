@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://fervaldes.com/los-tres-mejores-lenguajes-de-programacion-para-aprender-en-el-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/como-usar-github-subiendo-un-proyecto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/la-guia-definitiva-de-la-arquitectura-de-software</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/node-js-vs-spring-boot-cual-elegir</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -17,12 +18,13 @@
 <url> <loc>http://fervaldes.com/api-rest-api-que</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/api-roquefort-y-nuez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fervaldes.com/categories/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fervaldes.com/categories/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://fervaldes.com/categories/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/design-software</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://fervaldes.com/categories/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://fervaldes.com/categories/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/software-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/professional-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://fervaldes.com/categories/logging</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
